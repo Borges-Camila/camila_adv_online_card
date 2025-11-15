@@ -32,7 +32,7 @@
 }
 
 .card__logo {
-  width: 50px;
+  width: 90px;
 }
 
 .card_img {
@@ -44,13 +44,13 @@
 }
 
 .card h2 {
-  font-size: 16px;
+  font-size: 20px;
   margin-top: 10px;
 }
 
 .card p {
-  font-size: 11px;
-  margin: 5px 0 40px;
+  font-size: 12px;
+  margin: 5px 0 50px;
 }
 
 .link_img {
